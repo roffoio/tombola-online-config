@@ -1,6 +1,6 @@
 {
   "maintenance_mode_enabled": false,
-  "required_app_version": "4.0.0",
+  "required_app_version": "4.1.0",
 
   "ads_enabled": true,
   "ads_banner_enabled": true,
